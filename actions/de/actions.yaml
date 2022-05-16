@@ -1,0 +1,8 @@
+custom:
+  actions.intent.MAIN: {}
+  cheaper: {}
+  food:
+    engagement:
+      assistantLink:
+        title: food
+  vegetarian: {}

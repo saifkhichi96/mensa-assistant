@@ -1,0 +1,27 @@
+conditionalEvents:
+- condition: scene.slots.status == "FINAL"
+  transitionToScene: actions.scene.END_CONVERSATION
+intentEvents:
+- handler:
+    staticPromptName: static_prompt_7
+  intent: thanks
+  transitionToScene: actions.scene.END_CONVERSATION
+- handler:
+    webhookHandler: food
+  intent: food
+- handler:
+    webhookHandler: cheap
+  intent: cheaper
+- handler:
+    webhookHandler: veggie
+  intent: vegetarian
+onEnter:
+  staticPromptName: static_prompt_5
+slots:
+- commitBehavior:
+    writeSessionParam: type_option
+  name: type_option
+  required: true
+  type:
+    list: true
+    name: prompt_option

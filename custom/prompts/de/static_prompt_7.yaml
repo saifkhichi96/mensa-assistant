@@ -1,0 +1,8 @@
+candidates:
+- promptResponse:
+    firstSimple:
+      variants:
+      - speech: Tschüss!
+      - speech: Wiederholen!
+      - speech: Guten Appetit!
+      - speech: Schönen Tag!

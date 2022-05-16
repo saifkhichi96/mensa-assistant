@@ -1,0 +1,6 @@
+handlers:
+- name: veggie
+- name: food
+- name: cheap
+inlineCloudFunction:
+  executeFunction: ActionsOnGoogleFulfillment

@@ -1,0 +1,5 @@
+candidates:
+- promptResponse:
+    firstSimple:
+      variants:
+      - speech: I still didn't get that. Can you try one more time?

@@ -1,0 +1,33 @@
+category: FOOD_AND_DRINK
+defaultLocale: en
+enabledRegions:
+- Germany
+localizedSettings:
+  developerEmail: saifkhichi96@gmail.com
+  developerName: Saif Khan
+  displayName: TUK Mensa
+  fullDescription: |-
+    The TUK Mensa app lets you ask your Google Assistant about the food at the Mensa at the TU Kaiserslautern. It can list today's menu, tell you if there is a vegetarian option and tell you where to go for the cheapest option. It informs you about the food options available at Mensa 1 and 2, as well as at "Feelgood" in the Atrium.
+
+    Some things you can say to it:
+    - "Ask TUK Mensa about the meatless alternative today."
+    - "Ask TUK Mensa where is the cheapest food?"
+    - "Ask TUK Mensa what is for lunch today?"
+
+    Or you can say "Talk to TUK Mensa" to see it in full action. Try it now!
+
+    You do not need to install anything on your phone. It is already there, living inside your Google Assistant. For iOS, you can install the Google app from the App Store to use Google Assistant.
+
+    Just say "Talk to TUK Mensa" to the Google Assistant on your phone or any other device to get started. And don't forget to leave a review!
+  privacyPolicyUrl: https://docs.google.com/document/d/e/2PACX-1vR4vou5WPkI43D4oO-tlFWTBnA14pI7Cu5BSNPq91OUodBst7o3xi74dwtRvDY1YkCvgrp8ZbLMQkSr/pub
+  pronunciation: T U K Mensa
+  sampleInvocations:
+  - Talk to TUK Mensa
+  shortDescription: Simply ask your Google Assistant all your questions about the menu at TUK Mensa!
+  smallLogoImage: https://lh3.googleusercontent.com/vX98B1v_WrgeQgtdXtO6wcm6KWbnMZpkIiaM7Zy0qmGXMFtCt6MU7GaIkB1PTPa6tJZjA_DFBzIy_A
+  themeCustomization:
+    backgroundColor: '#FAFAFA'
+    imageCornerStyle: CURVED
+    primaryColor: '#00519E'
+  voice: female_3
+projectId: mensa-kl-6aedd

@@ -1,0 +1,10 @@
+candidates:
+- promptResponse:
+    firstSimple:
+      variants:
+      - speech: Hi! How can I help you?
+      - speech: Hello! What can I do for you?
+    suggestions:
+    - title: What is for lunch today?
+    - title: Vegetarian
+    - title: Cheapest

@@ -1,0 +1,6 @@
+candidates:
+- promptResponse:
+    firstSimple:
+      variants:
+      - speech: Sorry, I still didn't catch that. Can you repeat it?
+      - speech: Sorry, I still didn't get that. Can you try again?

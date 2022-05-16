@@ -1,0 +1,5 @@
+candidates:
+- promptResponse:
+    firstSimple:
+      variants:
+      - speech: Sorry, I do not understand. The app will now quit. Please try the app again.

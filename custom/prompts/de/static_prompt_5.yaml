@@ -1,0 +1,16 @@
+candidates:
+- promptResponse:
+    firstSimple:
+      variants:
+      - speech: Hi! Wie kann ich helfen?
+      - speech: Hallo! Wie kann ich helfen?
+      - speech: Servus! Wie kann ich helfen?
+      - speech: Moin! Wie kann ich helfen?
+      - speech: Hi! Was kann ich für Dich tun?
+      - speech: Hallo! Was kann ich für Dich tun?
+      - speech: Servus! Was kann ich für Dich tun?
+      - speech: Moin! Was kann ich für Dich tun?
+    suggestions:
+    - title: Was gibt es heute?
+    - title: Fleischlos
+    - title: Billigste

@@ -1,0 +1,14 @@
+parameters:
+- name: dateTime1
+  type:
+    name: actions.type.DateTime
+trainingPhrases:
+- no meat option
+- vegan alternative
+- vegetarian alternative
+- where is the meatless alternative
+- where is the vegetarian option ($dateTime1 'today' auto=true)
+- vegetarian
+- without meat
+- no flesh
+- fleshless variant

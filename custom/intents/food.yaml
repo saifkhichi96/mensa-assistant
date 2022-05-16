@@ -1,0 +1,13 @@
+parameters:
+- name: dateTime1
+  type:
+    name: actions.type.DateTime
+trainingPhrases:
+- What is for lunch?
+- What is in the Mensa?
+- food today
+- lunch
+- lunch in the Mensa?
+- What is for lunch in the Mensa?
+- What are you serving?
+- What do you have?

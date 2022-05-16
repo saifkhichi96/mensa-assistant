@@ -1,0 +1,5 @@
+candidates:
+- promptResponse:
+    firstSimple:
+      variants:
+      - speech: Entschuldigung, das habe ich noch nicht verstanden. Kannst du es wiederholen?

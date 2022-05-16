@@ -1,0 +1,8 @@
+candidates:
+- promptResponse:
+    firstSimple:
+      variants:
+      - speech: Tschüss!
+      - speech: Schau!
+      - speech: Wiederholen!
+      - speech: Servus!

@@ -1,0 +1,23 @@
+localizedSettings:
+  developerEmail: saifkhichi96@gmail.com
+  developerName: Saif Khan
+  displayName: TUK Mensa
+  fullDescription: |-
+    Mit der TUK Mensa App können Sie Ihren Google Assistant nach dem Essen in der Mensa der TU Kaiserslautern fragen. Es kann das heutige Menü auflisten, Ihnen sagen, ob es eine vegetarische Option gibt, und Ihnen sagen, wo Sie die günstigste Option finden können. Er informiert Sie über das gastronomische Angebot in Ausgabe 1 und 2 sowie beim „Feelgood“ im Atrium.
+
+    Sagen Sie „Mit TUK Mensa sprechen", um es in voller Aktion zu sehen. Probieren Sie es jetzt!
+
+    Sie müssen nichts auf Ihrem Telefon installieren. Es ist bereits da und lebt in Ihrem Google Assistant. Für iOS können Sie die Google-App aus dem App Store installieren, um Google Assistant zu verwenden.
+
+    Sagen Sie einfach „Mit TUK Mensa sprechen“ zu Google Assistant auf Ihrem Telefon oder einem anderen Gerät, um loszulegen. Und vergessen Sie nicht, eine Bewertung abzugeben!
+  privacyPolicyUrl: https://docs.google.com/document/d/e/2PACX-1vRdU2oqVapCj8miY6_0A-rdYb91Zs01HmUMHicCJnbs9h5m8JpvQZCiHE991lykzX2FDSo_n_z-mGI0/pub
+  pronunciation: TUK Mensa
+  sampleInvocations:
+  - Mit TUK Mensa sprechen
+  shortDescription: Stellen Sie Ihrem Google Assistant einfach alle Ihre Fragen zur Speisekarte der TUK Mensa!
+  smallLogoImage: https://lh3.googleusercontent.com/vX98B1v_WrgeQgtdXtO6wcm6KWbnMZpkIiaM7Zy0qmGXMFtCt6MU7GaIkB1PTPa6tJZjA_DFBzIy_A
+  themeCustomization:
+    backgroundColor: '#FAFAFA'
+    imageCornerStyle: CURVED
+    primaryColor: '#00519E'
+  voice: female_1
